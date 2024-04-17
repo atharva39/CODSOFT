@@ -1,3 +1,5 @@
+# Written by [Your Name] on [Date]
+# Task 2: Calculator given by CodSoft
 import streamlit as st
 
 # Define functions for arithmetic operations
