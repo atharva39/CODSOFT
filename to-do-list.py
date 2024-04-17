@@ -1,5 +1,5 @@
 # Written by Atharva Vivek Patil on 15th April 2024
-# Task 1 : To-Do List by CodSoft
+# Task 1 : To-Do List given by CodSoft
 import sqlite3
 import streamlit as st
 
