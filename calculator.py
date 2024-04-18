@@ -1,4 +1,4 @@
-# Written by [Your Name] on [Date]
+# Written by Atharva Patil on 18th April 2024
 # Task 2: Calculator given by CodSoft
 import tkinter as tk
 
