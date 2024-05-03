@@ -1,5 +1,5 @@
 # CODSOFT
-# Repository for Codsoft Python Internship Tasks #
+## Repository for Codsoft Python Internship Tasks ##
 
 [Task 1: To-Do List](#task-1-to-do-list)  
 [Task 2: Calculator](#task-2-calculator)  
