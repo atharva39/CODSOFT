@@ -16,4 +16,4 @@ This repository houses completed tasks and implementations for the Python intern
 This is a simple password generator implemented in Python using the Tkinter library for the GUI.
 - Allows users to generate random passwords with specified lengths and options.
 - Includes an option to include special characters in the generated passwords.
-- Provides a "Copy to Clipboard" button to easily copy the generated password.
+- Provides a "Copy to Clipboard" button to easily copy the generated password, implemented using pyperclip library.
