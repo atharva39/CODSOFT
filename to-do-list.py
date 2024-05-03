@@ -1,5 +1,5 @@
 # Written by Atharva Vivek Patil on 15th April 2024
-# Task 1 : To-Do List given by CodSoft
+# Task 1 : To-Do List given by CodSoftt
 import tkinter as tk
 from tkinter import messagebox, filedialog
 import sqlite3
