@@ -1,9 +1,9 @@
 # CODSOFT
 Repository for Codsoft Python Internship Tasks  
-[Session 01](#session-01)
-[Task 1: To-Do List](#task-1-to-do-list) 
-Task 2: Calculator  
-Task 3: Password Generator  
+
+[Task 1: To-Do List](#task-1-to-do-list)  
+[Task 2: Calculator](#task-2-calculator)  
+[Task 3: Password Generator](#task-3-password-generator)  
 
 This repository houses completed tasks and implementations for the Python internship program at Codsoft.  
 
