@@ -1,4 +1,4 @@
-# Written by Atharva Patil on 21th April 2024
+# Written by Atharva Patil on 21st April 2024
 # Task 2: Calculator given by CodSoft
 import tkinter as tk
 
