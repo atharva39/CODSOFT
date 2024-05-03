@@ -27,7 +27,9 @@ This is a simple calculator application built using Python and Tkinter, designed
 
 ## Task 3: Password Generator
 ### Introduction & Features
-This is a simple password generator implemented in Python using the Tkinter library for the GUI.
-- Allows users to generate random passwords with specified lengths and options.
-- Includes an option to include special characters in the generated passwords.
-- Provides a "Copy to Clipboard" button to easily copy the generated password, implemented using pyperclip library.
+This is a simple Password Generator application built using Python and Tkinter, designed to generate secure random passwords of varying lengths. The application allows users to specify the length of the password and whether to include special characters.
+
+- Random Password Generation: Generates random passwords using a combination of uppercase letters, lowercase letters, digits, and optionally, special characters.
+- Customizable Length: Users can specify the desired length of the password, with a default length of 8 characters.
+- Special Characters Inclusion: Users have the option to include or exclude special characters in the generated passwords.
+- Copy to Clipboard: Once a password is generated, users can easily copy it to the clipboard for convenient use. (needs pyperclip library)
