@@ -19,7 +19,7 @@ This is a simple To-Do List application built using Python and Tkinter, designed
 ## Task 2: Calculator
 
 ## Task 3: Password Generator
-### Introduction & Features
+#### Introduction & Features
 This is a simple password generator implemented in Python using the Tkinter library for the GUI.
 - Allows users to generate random passwords with specified lengths and options.
 - Includes an option to include special characters in the generated passwords.
